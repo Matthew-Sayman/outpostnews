@@ -1,0 +1,17 @@
+.members h1 {
+    font-family: 'Oswald', sans-serif;
+    position: absolute;
+    text-align: center;
+    top: 60px;
+    left: 569px;
+    font-size: 50px;
+}
+
+.content ul li {
+    font-family: 'Noto Sans', sans-serif;
+    position: relative;
+    text-align: center;
+    top: 200px;
+    right: 40px;
+    font-size: 25px;
+}
